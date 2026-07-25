@@ -68,7 +68,7 @@ I'm a Data Analytics student at Government College University Faisalabad (2023�
 
 ### 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><strong>📊 Zomato India Food App Dashboard</strong></summary>
 <br>
 
@@ -85,7 +85,7 @@ Power BI dashboard analyzing delivery shop data for insights on ratings, cuisine
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🏬 Super Store Sales Dashboard</strong></summary>
 <br>
 
@@ -102,7 +102,7 @@ Superstore sales dashboard using Power BI, incorporating maps, filters, and slic
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🍷 Wine Order Management Dashboard</strong></summary>
 <br>
 
@@ -156,27 +156,16 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 
 **Google / Coursera**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_AI_Essentials-6D28D9?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analytics_Capstone-6D28D9?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R_Programming-6D28D9?style=flat-square&logo=r&logoColor=white"/>
-</p>
-
-**Internship Providers**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CodexCue-Exploratory_Data_Analysis-312E81?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Oasis_Infobyte-Data_Analytics-312E81?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prodigy_InfoTech-Data_Science-312E81?style=flat-square"/>
-</p>
-
 <p align="center">
-  <img src="assets/certificates/codexcue.jpg" width="95" alt="CodexCue Certificate"/>
-  <img src="assets/certificates/oasis-infobyte.jpg" width="180" alt="Oasis Infobyte Certificate"/>
-  <img src="assets/certificates/prodigy-infotech.png" width="180" alt="Prodigy InfoTech Certificate"/>
-  <img src="assets/certificates/r-programming.png" width="180" alt="Data Analysis with R Programming Certificate"/>
   <img src="assets/certificates/data-analytics-capstone.png" width="180" alt="Google Data Analytics Capstone Certificate"/>
   <img src="assets/certificates/google-ai-essentials.png" width="180" alt="Google AI Essentials Certificate"/>
+  <img src="assets/certificates/r-programming.png" width="180" alt="Data Analysis with R Programming Certificate"/>
+</p>
+
+**Internship**
+
+<p align="center">
+  <img src="assets/certificates/prodigy-infotech.png" width="180" alt="Prodigy InfoTech Certificate"/>
 </p>
 
 ---
@@ -184,12 +173,12 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeez276&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=moeez276&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="48%"/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=moeez276&theme=tokyonight&hide_border=true&background=0D0221&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeez276&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="45%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=moeez276&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="45%"/>
 </p>
 
 <p align="center">
