@@ -158,14 +158,14 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 
 <p align="center">
   <img src="assets/certificates/data-analytics-capstone.png" width="180" alt="Google Data Analytics Capstone Certificate"/>
-  <img src="assets/certificates/google-ai-essentials.png" width="180" alt="Google AI Essentials Certificate"/>
+  <img src="assets/certificates/google-ai-essentials.png" width="160" alt="Google AI Essentials Certificate"/>
   <img src="assets/certificates/r-programming.png" width="180" alt="Data Analysis with R Programming Certificate"/>
 </p>
 
 **Internship**
 
 <p align="center">
-  <img src="assets/certificates/codexcue.jpg" width="140" alt="CodexCue Certificate"/>
+  <img src="assets/certificates/codexcue.jpg" width="95" alt="CodexCue Certificate"/>
   <img src="assets/certificates/oasis-infobyte.jpg" width="180" alt="Oasis Infobyte Certificate"/>
   <img src="assets/certificates/prodigy-infotech.png" width="180" alt="Prodigy InfoTech Certificate"/>
 </p>
@@ -181,10 +181,6 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeez276&theme=tokyo-night&hide_border=true&bg_color=0D0221&color=A78BFA&line=6D28D9&point=C4B5FD" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moeez276/moeez276/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </p>
 
 ---
