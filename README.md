@@ -116,8 +116,8 @@ Power BI dashboard tracking wine order volume, monthly trends, and status across
   <img src="assets/certificates/codexcue.jpg" width="95" alt="CodexCue Certificate"/>
   <img src="assets/certificates/oasis-infobyte.jpg" width="180" alt="Oasis Infobyte Certificate"/>
   <img src="assets/certificates/prodigy-infotech.png" width="180" alt="Prodigy InfoTech Certificate"/>
-  <img src="assets/certificates/r-programming.png" width="180" alt="Data Analysis with R Programming Certificate"/>
-  <img src="assets/certificates/data-analytics-capstone.png" width="180" alt="Google Data Analytics Capstone Certificate"/>
+  <img src="assets/certificates/r-programming.png" width="175" alt="Data Analysis with R Programming Certificate"/>
+  <img src="assets/certificates/data-analytics-capstone.png" width="175" alt="Google Data Analytics Capstone Certificate"/>
   <img src="assets/certificates/google-ai-essentials.png" width="180" alt="Google AI Essentials Certificate"/>
 </p>
 
@@ -129,7 +129,7 @@ Power BI dashboard tracking wine order volume, monthly trends, and status across
   <a href="https://www.linkedin.com/in/moeezrasheed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/mian.moeez.rasheed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/moeez__rasheed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:moeezrasheed153@gmail.com"><img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0B1120" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=moeezrasheed153@gmail.com"><img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0B1120" /></a>
   <a href="https://wa.me/923068342275"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://moeez276.github.io"><img src="https://img.shields.io/badge/Portfolio-7DD3FC?style=for-the-badge&logo=googlechrome&logoColor=0B1120" /></a>
 </p>
