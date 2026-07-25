@@ -183,6 +183,10 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeez276&theme=tokyo-night&hide_border=true&bg_color=0D0221&color=A78BFA&line=6D28D9&point=C4B5FD" width="90%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moeez276/moeez276/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
+
 ---
 
 ### 🎯 Current Focus
