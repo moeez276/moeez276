@@ -165,6 +165,8 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 **Internship**
 
 <p align="center">
+  <img src="assets/certificates/codexcue.jpg" width="140" alt="CodexCue Certificate"/>
+  <img src="assets/certificates/oasis-infobyte.jpg" width="180" alt="Oasis Infobyte Certificate"/>
   <img src="assets/certificates/prodigy-infotech.png" width="180" alt="Prodigy InfoTech Certificate"/>
 </p>
 
@@ -174,15 +176,7 @@ Completed an internship focused on Exploratory Data Analysis, contributing to on
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=moeez276&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="48%"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=moeez276&theme=tokyonight&hide_border=true&background=0D0221&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=moeez276&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeez276&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
 </p>
 
 <p align="center">
