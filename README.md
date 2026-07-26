@@ -13,7 +13,13 @@
   <a href="https://moeez276.github.io"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/moeezrasheed/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=moeezrasheed153@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/moeez276"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01e3ac3ee109d9be27?mp_source=share" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<a href="https://www.fiverr.com/moeezrasheed153" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moeez276&color=6D28D9&style=flat-square&label=Profile+Views)
